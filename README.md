@@ -1,5 +1,5 @@
 # Ecommerce-Sales-Customer--Insight-Dashboard
-Interactive Retail Sales Report built in Power BI
+Interactive Sales Report built in Power BI
 This is a 3-page Power BI dashboard built using a real-world retail dataset. It covers:
 
 ✅ Sales Overview  
@@ -14,3 +14,8 @@ This is a 3-page Power BI dashboard built using a real-world retail dataset. It 
 - Custom visual formatting & slicers
 
 Built with Power BI Desktop (Free)
+In order to access the dashboard dynamically, follow these steps:
+
+Install Power BI Desktop and create an account.
+Download .pbix file.
+Open the file using Power BI Desktop.
