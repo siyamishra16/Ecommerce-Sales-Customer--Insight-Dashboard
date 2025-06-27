@@ -17,5 +17,5 @@ Built with Power BI Desktop (Free)
 In order to access the dashboard dynamically, follow these steps:
 
 Install Power BI Desktop and create an account.
-Download .pbix file.
+Download Ecommerce sales and customer insight dashboard.pbix file.
 Open the file using Power BI Desktop.
